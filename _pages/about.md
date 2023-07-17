@@ -34,8 +34,7 @@ Education
    
    Thesis: Simulation Analysis of Vehicle Longitudinal Model Modal Parameters Identification;
 
-   Research Interests:Experimental modal analysis is performed on the vehicle longitudinal model to 
-   identify the modal parameters of the vehicle and perform simulation analysis.
+   Research Interests: Experimental modal analysis is performed on the vehicle longitudinal model to identify the modal parameters of the vehicle and perform simulation analysis.
 
 Publication
 ======
