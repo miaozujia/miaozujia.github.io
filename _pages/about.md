@@ -16,13 +16,28 @@ You can find my CV here: [miaozujia's Curriculum Vitae](../assets/Curriculum_Vit
 [Email](miaozujia:miuzujia2018@gmail.com) / [Github](https://github.com/miaozujia) 
 
 
-A data-driven personal website
+Education
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+1. M.S. in Computer Technology} % 
+	{University of Chinese Academy of Sciences(Shenzhen Institute of Advanced Technology)} % Institution     	
+	{Shenzhen} % Location
+	{Sep. 2021 - Jun. 2024} % Date(s)
+	{GPA:3.42; Research Interests: Sensor attacks pose a serious threat to autonomous driving perception systems. Multi-sensor fusion techniques and anomaly detection algorithms are used to monitor the inconsistency of sensor data to achieve attack detection and localization. Vehicle dynamics are modeled and machine learning algorithms are combined to achieve data recovery. Finally, a real-time, high-precision attack detection and defense method for perception systems is proposed.
+	}%  Here, you can introduce your thesis, GPA, supervisor
+	% \vspace{-3.5mm} 
+ 	\vspace{1.5mm} 
+2. B.S. in Vehicles Engineering} % 
+	{Hefei University of Technology (School of Automotive and Transportation Engineering)} % Institution     	
+	{Hefei} % Location
+	{Sep. 2013 - Jun. 2017} % Date(s)
+	{
+            Thesis: Simulation Analysis of Vehicle Longitudinal Model Modal Parameters Identification; Research Interests: Experimental modal analysis is performed on the vehicle longitudinal model to identify the modal parameters of the vehicle and perform simulation analysis.
+	}%  Here, you can introduce your thesis, GPA, supervisor
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Publication
+======
+1. Miao Zujia, Yunduan Cui, Beizhang Chen, Huiyun Li, and  Cuiping Shao,`` A Real-Time Attack Detection and Defense Method for Localization System of Autonomous Vehicles." \textit{IEEE Transactions on Dependable and Secure Computing}. Under review. submited in June, 2023.(IF=7.2,JCR Q1)
 
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+
