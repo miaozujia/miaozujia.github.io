@@ -20,14 +20,21 @@ You can find more infor in my CV here: [miaozujia's Curriculum Vitae](../assets/
 
 Education
 ======
-1. M.S. in Computer Technology, University of Chinese Academy of Sciences(Shenzhen Institute of Advanced Technology)	
+1. M.S. in Computer Technology, University of Chinese Academy of Sciences(Shenzhen Institute of Advanced Technology)
+   
    Sep. 2021 - Jun. 2024,GPA:3.42;
+   
    Research Interests: Sensor attacks pose a serious threat to autonomous driving perception systems. Multi-sensor fusion techniques and anomaly detection algorithms are used to monitor the 
    inconsistency of sensor data to achieve attack detection and localization. Vehicle dynamics are modeled and machine learning algorithms are combined to achieve data recovery. Finally, a real- 
    time, high-precision attack detection and defense method for perception systems is proposed.
+   
 2. B.S. in Vehicles Engineering, Hefei University of Technology (School of Automotive and Transportation Engineering), one of 211 project universities.
+ 
    Sep. 2013 - Jun. 2017
-   Thesis: Simulation Analysis of Vehicle Longitudinal Model Modal Parameters Identification; Research Interests: Experimental modal analysis is performed on the vehicle longitudinal model to 
+   
+   Thesis: Simulation Analysis of Vehicle Longitudinal Model Modal Parameters Identification;
+
+   Research Interests:Experimental modal analysis is performed on the vehicle longitudinal model to 
    identify the modal parameters of the vehicle and perform simulation analysis.
 
 Publication
